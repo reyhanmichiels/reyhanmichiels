@@ -10,7 +10,11 @@ Hello there, welcome to my repository. My name is Reyhan and i interest to becom
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reyhanmichiels&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<a href="https://github.com/reyhanmichiels/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reyhanmichiels&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+</a><br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=reyhanmichiels&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reyhanmichiels&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanmichiels&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -21,3 +25,5 @@ Hello there, welcome to my repository. My name is Reyhan and i interest to becom
 [![](https://visitcount.itsvg.in/api?id=reyhanmichiels&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
