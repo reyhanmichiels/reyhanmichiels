@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
-Hello there, welcome to my repository. My name is Reyhan and i interest to become<br>a back end developer.
+Hello there, welcome to my repository. My name is Reyhan,i am a 
+undergraduate of Information Technology student at Brawijaya University who is interested in becoming a Back End Developer.
 
 
 ## 🌐 Socials:
